@@ -26,4 +26,5 @@ titles:
 key: page-about
 ---
 
-联盟营销相关知识介绍
+Affiliate 101，专注联盟营销实战技巧以及相关教程汇总
+
