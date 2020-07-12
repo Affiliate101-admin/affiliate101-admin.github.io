@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Affiliate Marketing 高教程获取途径
+title: Affiliate Marketing 高质量教程获取途径
 key: 10001
 tags: affiliate教程
 date: 2020-07-13
