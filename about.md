@@ -26,5 +26,4 @@ titles:
 key: page-about
 ---
 
-Affiliate 101，专注联盟营销实战技巧以及相关教程汇总
-
+Affiliate 101，专注联盟营销实战技巧交流
